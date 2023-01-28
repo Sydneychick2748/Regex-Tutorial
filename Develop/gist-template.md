@@ -1,10 +1,12 @@
-# Title (replace with your title)
+# REGEX_TUTORIAL
 
-Introductory paragraph (replace this with your text)
+This tutorial will provide an overview of regular expressions, also known as Regex, and how they can be used to match specific character patterns within a string. Regular expressions are useful for extracting information from text and for validation purposes. One example of this is using regular expressions to match email addresses. The tutorial will also cover the different components of regular expressions, providing a deeper understanding of how they work and how to use them effectively.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This code is a regular expression that can be used to match and validate email addresses. It can be used to check if an email follows the correct format, for example, it checks that the email address starts with one or more letters, numbers, underscores, dots or dashes, followed by an @ symbol, followed by one or more letters, numbers, dots or dashes, followed by a dot and two to six letters. It can be used throughout the tutorial as an example to show how different components of regular expressions can be used to match specific patterns in text.
+
+Matching an Email – /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 ## Table of Contents
 
