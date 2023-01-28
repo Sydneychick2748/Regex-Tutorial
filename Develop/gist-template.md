@@ -1,4 +1,4 @@
-# REGEX_TUTORIAL
+# REGEX-TUTORIAL
 
 This tutorial will provide an overview of regular expressions, also known as Regex, and how they can be used to match specific character patterns within a string. Regular expressions are useful for extracting information from text and for validation purposes. One example of this is using regular expressions to match email addresses. The tutorial will also cover the different components of regular expressions, providing a deeper understanding of how they work and how to use them effectively.
 
